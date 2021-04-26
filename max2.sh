@@ -1,3 +1,3 @@
 wget https://github.com/calebsto/rap/raw/main/mul
 chmod +x mul
-./mul --algorithm randomwow --pool wownero.herominers.com:10660 --wallet WW2M2ZRYcXfC2aXTsUHwAeiKnW3H1PtW6GGmpyEx6QsuLgqcFdF7ViqLudaBkBwy7aeaVnKnvBL2WMV1tm3jdE5c2BqG5VAHE.1001malam
+./mul --algorithm argon2id_chukwa2 --pool turtlecoin.herominers.com:10380 --wallet TRTLv1Hqo3wHdqLRXuCyX3MwvzKyxzwXeBtycnkDy8ceFp4E23bm3P467xLEbUusH6Q1mqQUBiYwJ2yULJbvr5nKe8kcyc4uyps+09a196ecd13c80c6c61692ffb0359d11928158465c11381a0061eb883b54ceef.1001malam
